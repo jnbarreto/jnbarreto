@@ -2,7 +2,6 @@
 
 ## 🔌 Conecte-se comigo | Connect with me 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00677a?style=for-the-badge&logo=linkedin&logoColor=#04d9ff)](https://www.linkedin.com/in/juanleone/)
-[![Instagram](https://img.shields.io/badge/-Instagram-00677a?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/juannleone/)
 [![Gmail](https://img.shields.io/badge/Gmail-00677a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jc.leone98@gmail.com)
 
 
@@ -11,7 +10,6 @@
 ![Django](https://img.shields.io/badge/django-00677a?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-00677a?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-00677a?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-00677a?style=for-the-badge&logo=angular&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00677a?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-00677a?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-00677a?style=for-the-badge&logo=git&logoColor=white)
